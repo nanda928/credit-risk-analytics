@@ -193,7 +193,7 @@ An interactive **Credit Risk Monitoring Dashboard** has been developed to simula
 
 ## Author
 
-**Salsabila Eka Hariadi**  
+**Ananda Pradewa Dyah Kurniawan Putra**  
 
 Aspiring Data Analyst with focus on:
 - Credit Risk Analytics  
